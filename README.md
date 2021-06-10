@@ -1,0 +1,55 @@
+# 编辑器、编译器、IDE集成开发环境：
+  
+
+
+
+# 编译器
+## 常见的C++编译器：
+    Gun Complier collection
+    clang
+    Microsoft C++ Complier
+    ...
+    
+## 编译器为什么这么多种：
+    为什么不同的处理器需要不同的C++编译器
+        汇编指令集不同
+    为什么把不同的操作系统厂商也要搞自己的C++编译器
+        虽然C++标准一样，但是适配不同操作系统的自有头文件和动态库
+    
+
+### GCC (GUN Complier collection)
+    GUN与Unix的关系
+        Unix 商用操作系统 solaris等
+        Gun 开发一套开源免费的操作系统，操作系统内核以及工具链
+    Unix与Linux
+        linux 参考 Unix设计思路,写出 Unix-like操作系统,Linux操作系统，遵循了 GUN开源协议
+    GUN与Linux
+        linux 内核出现，成长速度快于GUN内核，Gun的工具链被大量集成到linux中。
+        
+        
+    GCC与Gun
+    
+    gcc与GCC
+    
+    gcc与g++
+    
+    
+    WINGW与GCC
+      window上使用GCC
+      
+    WLS
+      
+    Cygwin
+    
+    
+### clang
+
+    LLVM与clang
+
+    至于为什么既要装Clang又要装MinGW，是因为Clang没有头文件
+
+
+
+
+
+
