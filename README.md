@@ -60,4 +60,5 @@ WIN10 WSL搭建C语言开发环境
 WSl使用：https://docs.microsoft.com/zh-cn/windows/wsl/install-win10
 下载WSL linux内核  https://docs.microsoft.com/zh-cn/windows/wsl/install-manual
 
-
+wsl 按住Ubuntu的路径
+C:\Users\Admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs
