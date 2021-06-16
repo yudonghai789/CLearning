@@ -53,3 +53,11 @@
 
 
 
+
+所以，学些C语言可以基于不同的操作系统。工作中，经常使用window桌面，但是项目工程是linux上。
+
+WIN10 WSL搭建C语言开发环境
+WSl使用：https://docs.microsoft.com/zh-cn/windows/wsl/install-win10
+下载WSL linux内核  https://docs.microsoft.com/zh-cn/windows/wsl/install-manual
+
+
