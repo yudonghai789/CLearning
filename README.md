@@ -53,7 +53,9 @@
 ### MSVC
     通过命令行使用MSVC https://docs.microsoft.com/zh-cn/cpp/build/building-on-the-command-line?view=msvc-160
 
-    vscode 使用MSVC  https://blog.csdn.net/qq_43116414/article/details/108430701
+    vscode 使用MSVC  
+      官方文档：https://code.visualstudio.com/docs/cpp/config-msvc
+      博客：https://blog.csdn.net/qq_43116414/article/details/108430701
 
 所以，学些C语言可以基于不同的操作系统。工作中，经常使用window桌面，但是项目工程是linux上。
 
